@@ -1,6 +1,6 @@
-# nuxt-contentful-blog
+# nuxt-demo-app
 
-> A simple blog app built with Nuxt and Contentful
+> A simple demo app using NuxtJS
 
 ## Build Setup
 
