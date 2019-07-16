@@ -1,7 +1,7 @@
 {
-  "name": "black-mirror",
+  "name": "nuxt-contentful-blog",
   "version": "1.0.0",
-  "description": "Spontaneous Black Mirror App",
+  "description": "A simple blog app built with Nuxt and Contentful",
   "author": "fernando-mf",
   "private": true,
   "scripts": {

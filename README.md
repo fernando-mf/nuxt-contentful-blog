@@ -1,6 +1,6 @@
-# black-mirror
+# nuxt-contentful-blog
 
-> Spontaneous Black Mirror App
+> A simple blog app built with Nuxt and Contentful
 
 ## Build Setup
 
